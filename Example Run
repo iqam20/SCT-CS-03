@@ -1,0 +1,5 @@
+=== Password Strength Checker ===
+Enter your password: Hello123
+Result: Moderate Password ⚠️
+Suggestions:
+- Add at least one special character (@, $, !, %, *, ?, &).
